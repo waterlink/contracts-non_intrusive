@@ -3,6 +3,9 @@
 Less intrusive version of Contracts DSL. Allows to use static/dynamic code
 analysis tools.
 
+*NOTE: This is in a proof-of-concept state and doesn't have tests (read:
+quick hack to see if it is possible at all)*
+
 ## Installation
 
 Add this line to your application's Gemfile:
